@@ -1,5 +1,6 @@
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [mention your areas of interest, e.g., web development, data science, machine learning, etc.]. Here's a little more about me:
+Welcome to my GitHub profile! 
+I am a study engineer at the Sorbonne University of Paris, currently working on the AI for Soil Health initiative, more precisely on invertebrates identification, photography, bioinformatics, genetics and machine learning.
 
 ## Working On
 
