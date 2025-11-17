@@ -16,7 +16,7 @@ I am a study engineer at the Sorbonne University of Paris, currently working on 
 
 - Email: alexis.pretat@sorbonne-universite.fr
 - Professional page : https://iees-paris.fr/annuaire/pretat-alex/
-
+- WebSite : https://aurore-pretat.net/
 
 ## Tech Stack
 
