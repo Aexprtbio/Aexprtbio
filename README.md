@@ -20,7 +20,7 @@ I am a study engineer at the Sorbonne University of Paris, currently working on 
 
 ## Tech Stack
 
-- **Languages:** [R, Python]
+- **Languages:** [R, Python, HTML]
 - LaTeX
 
 ## 📈 GitHub Stats
